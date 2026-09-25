@@ -4,7 +4,6 @@ Homework project
 🌟 About
 This project is for educational purpouses only.
 
-
 🎯 Project features/goals:
 Java,
 Github.
