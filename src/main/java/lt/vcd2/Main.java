@@ -29,6 +29,7 @@ public class Main {
         float m = ( a + d) * p;
 
         System.out.println("The total amount required for purchasing the tiles: ");
+
         System.out.println( m );
 
     }
