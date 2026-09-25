@@ -1,5 +1,5 @@
 
-package lt.vcd;
+package lt.vcd1;
 
 
 import java.util.Scanner;
